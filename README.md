@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 I'm Tony</h1>
-<h3 align="center">Highly motivated masters student studying computer science. Looking for an opportunity to apply my skills.</h3>
+<h3 align="center">Highly motivated master's student studying computer science at NYU. Looking for an opportunity to leverage and apply my skills.</h3>
 
 - Software Engineering Course Project [Parkrowd](Link To Be Provided)
 
