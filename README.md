@@ -3,7 +3,7 @@
 
 - Software Engineering Course Project [Parkrowd](Link To Be Provided)
 
-- Databse Course Project [FatEar](Link To Be Provided)
+- Databse Course Project [FatEar](https://github.com/tmaricic1/FatEar)
 
 - 📫 How to reach me **tmaricic1@gmail.com**
 
