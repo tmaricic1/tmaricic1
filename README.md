@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋 I'm Tony</h1>
 <h3 align="center">Highly motivated master's student studying computer science at NYU. Looking for an opportunity to leverage and apply my skills.</h3>
 
-- Software Engineering Course Project [Parkrowd](Link To Be Provided)
+- Software Engineering Course Project [Parkrowd](https://github.com/gcivil-nyu-org/Wednesday-Fall2023-Team-2)
 
 - Databse Course Project [FatEar](https://github.com/tmaricic1/FatEar)
 
