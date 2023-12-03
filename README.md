@@ -3,7 +3,7 @@
 
 - Software Engineering Course Project [Parkrowd](https://github.com/gcivil-nyu-org/Wednesday-Fall2023-Team-2)
 
-- Databse Course Project [FatEar](https://github.com/tmaricic1/FatEar)
+- Database Course Project [FatEar](https://github.com/tmaricic1/FatEar)
 
 - 📫 How to reach me **tmaricic1@gmail.com**
 
