@@ -3,6 +3,8 @@
 
 - Software Engineering Course Project [Parkrowd](https://github.com/gcivil-nyu-org/Wednesday-Fall2023-Team-2)
 
+- Machine Learning Course Project [ML Course Project](https://github.com/tmaricic1/Machine-Learning-Course-Project)
+
 - Database Course Project [FatEar](https://github.com/tmaricic1/FatEar)
 
 <h3 align="left">Connect with me:</h3>
